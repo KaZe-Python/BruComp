@@ -1,0 +1,13 @@
+C:\Users\bpcos\OneDrive\Desktop\GitHub Projects\BruComp\brucomp\bin\Debug\netcoreapp3.1\brucomp.exe
+C:\Users\bpcos\OneDrive\Desktop\GitHub Projects\BruComp\brucomp\bin\Debug\netcoreapp3.1\brucomp.deps.json
+C:\Users\bpcos\OneDrive\Desktop\GitHub Projects\BruComp\brucomp\bin\Debug\netcoreapp3.1\brucomp.runtimeconfig.json
+C:\Users\bpcos\OneDrive\Desktop\GitHub Projects\BruComp\brucomp\bin\Debug\netcoreapp3.1\brucomp.runtimeconfig.dev.json
+C:\Users\bpcos\OneDrive\Desktop\GitHub Projects\BruComp\brucomp\bin\Debug\netcoreapp3.1\brucomp.dll
+C:\Users\bpcos\OneDrive\Desktop\GitHub Projects\BruComp\brucomp\bin\Debug\netcoreapp3.1\brucomp.pdb
+C:\Users\bpcos\OneDrive\Desktop\GitHub Projects\BruComp\brucomp\obj\Debug\netcoreapp3.1\brucomp.csprojAssemblyReference.cache
+C:\Users\bpcos\OneDrive\Desktop\GitHub Projects\BruComp\brucomp\obj\Debug\netcoreapp3.1\brucomp.AssemblyInfoInputs.cache
+C:\Users\bpcos\OneDrive\Desktop\GitHub Projects\BruComp\brucomp\obj\Debug\netcoreapp3.1\brucomp.AssemblyInfo.cs
+C:\Users\bpcos\OneDrive\Desktop\GitHub Projects\BruComp\brucomp\obj\Debug\netcoreapp3.1\brucomp.csproj.CoreCompileInputs.cache
+C:\Users\bpcos\OneDrive\Desktop\GitHub Projects\BruComp\brucomp\obj\Debug\netcoreapp3.1\brucomp.dll
+C:\Users\bpcos\OneDrive\Desktop\GitHub Projects\BruComp\brucomp\obj\Debug\netcoreapp3.1\brucomp.pdb
+C:\Users\bpcos\OneDrive\Desktop\GitHub Projects\BruComp\brucomp\obj\Debug\netcoreapp3.1\brucomp.genruntimeconfig.cache
